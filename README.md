@@ -4,3 +4,6 @@ take vector input from user, print addition of two vector and dot product of two
 
 matrices.py :- 
 create a function for multiplication of 2x2 matrices.
+
+plot_vectors.py :- 
+create a visual representation of two vectors using matplotlib library.
