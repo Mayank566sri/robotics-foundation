@@ -23,7 +23,7 @@ robot = Robot(x=0.0, y=0.0, theta=0.0)
 v = 1.0  # linear velocity
 w = 0.5  # angular velocity
 dt = 0.1  # time step
-steps = 90
+steps = 300
 
 # Simulate robot movement
 for _ in range(steps):
